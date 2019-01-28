@@ -1,0 +1,24 @@
+{
+  "name": "vos-is-naies",
+  "version": "1.0.0",
+  "description": "clone of existing website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelPfeiffer/vos-is-naies.git"
+  },
+  "author": "Rachel Pfeiffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelPfeiffer/vos-is-naies/issues"
+  },
+  "homepage": "https://github.com/RachelPfeiffer/vos-is-naies#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
